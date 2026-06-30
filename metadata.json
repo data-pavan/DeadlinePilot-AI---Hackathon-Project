@@ -1,0 +1,6 @@
+{
+  "name": "DeadlinePilot AI",
+  "description": "An autonomous AI productivity agent that proactively helps users complete tasks before deadlines, predicts failures, optimizes daily schedules, and executes deadline rescue operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
