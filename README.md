@@ -214,7 +214,7 @@ This project is licensed under the **MIT License**.
 
 ## 👤 Author
 
-**Pavan R**
+**Pavana R**
 🔗 GitHub: [@data-pavan](https://github.com/data-pavan)
 
 ---
