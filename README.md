@@ -168,15 +168,58 @@ DATABASE_URL=your_database_url_here
 
 ## 📸 Screenshots
 
-| Page | Preview |
-|---|---|
-| 🏠 Landing Page | ![Landing Page](screenshots/landing-page.png) |
-| 📊 Dashboard | ![Dashboard](screenshots/dashboard.png) |
-| 🧠 AI Planner | ![AI Planner](screenshots/ai-planner.png) |
-| 🗓️ Calendar | ![Calendar](screenshots/calendar.png) |
-| 🤖 AI Assistant | ![AI Assistant](screenshots/ai-assistant.png) |
-| 🎯 Focus Mode | ![Focus Mode](screenshots/focus-mode.png) |
-| 🔐 Login Page | ![Login Page](screenshots/login-page.png) |
+
+## 🏠 Landing Page
+
+![Landing Page](screenshots/landing-page.png)
+
+---
+
+## 🔐 Login Page
+
+![Login Page](screenshots/login-page.png)
+
+---
+
+## 📊 Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+---
+
+## ✅ My Tasks
+
+![My Tasks](screenshots/my-tasks.png)
+
+---
+
+## 📅 Calendar
+
+![Calendar](screenshots/calendar.png)
+
+---
+
+## 🤖 AI Assistant
+
+![AI Assistant](screenshots/ai-assistant.png)
+
+---
+
+## 🎯 Focus Mode
+
+![Focus Mode](screenshots/focus-mode.png)
+
+---
+
+## 📈 Reports
+
+![Reports](screenshots/reports.png)
+
+---
+
+## ⚙️ Settings
+
+![Settings](screenshots/settings.png)
 
 ---
 
